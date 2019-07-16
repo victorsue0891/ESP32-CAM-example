@@ -11,10 +11,8 @@
 //#define CAMERA_MODEL_M5STACK_PSRAM
 #define CAMERA_MODEL_AI_THINKER
 
-//const char* ssid = "victor_home";
-//const char* password = "0227587111";
-const char* ssid = "victor_24G";
-const char* password = "0922987908";
+const char* ssid = "xxxxxxxx";
+const char* password = "xxxxxxxx";
 
 #if defined(CAMERA_MODEL_WROVER_KIT)
 #define PWDN_GPIO_NUM    -1
